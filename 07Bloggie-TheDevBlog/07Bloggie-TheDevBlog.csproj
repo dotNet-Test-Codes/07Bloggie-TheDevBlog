@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>_07Bloggie_TheDevBlog</RootNamespace>
+    <RootNamespace>07Bloggie_TheDevBlog</RootNamespace>
   </PropertyGroup>
 
 </Project>
